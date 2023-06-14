@@ -1,0 +1,11 @@
+<Expenses>
+  <expense>
+    <total>65,000</total>
+    <payment_method>personal
+                            card</payment_method>
+    <vendor>Seaside Steakhouse</vendor>
+    <description>development team’s project end celebration</description>
+    <date>27 April
+                            2022</date>
+  </expense>
+</Expenses>
